@@ -1,0 +1,14 @@
+ul {
+    background-color: yellow;
+    padding: 30px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+li {
+    color: red;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
