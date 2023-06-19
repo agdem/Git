@@ -1,3 +1,4 @@
+
 ul {
     background-color: yellow;
     padding: 30px;
@@ -12,3 +13,12 @@ li {
     display: flex;
     justify-content: center;
 }
+body {
+    background-color: brown;
+    text-align: center;
+}
+
+h2 {
+    color: yellow;
+}
+
